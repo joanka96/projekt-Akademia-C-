@@ -1,0 +1,3 @@
+
+Celem projektu jest stworzenie aplikacji kalendarza. 
+Technologia: WPF
