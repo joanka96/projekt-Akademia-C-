@@ -1,3 +1,5 @@
+﻿Joanna Słupecka-Akademia C#-Wstępny opis projektu
 
 Celem projektu jest stworzenie aplikacji kalendarza. 
+Uzytkownik może dodać/usunąć termin/zadanie na określony czas i jest ono wpisywane do bazy danych.
 Technologia: WPF
