@@ -1,5 +1,10 @@
 ﻿Joanna Słupecka-Akademia C#-Wstępny opis projektu
 
-Celem projektu jest stworzenie aplikacji kalendarza. 
-Uzytkownik może dodać/usunąć termin/zadanie na określony czas i jest ono wpisywane do bazy danych.
+Celem projektu jest stworzenie aplikacji planera-kalendarza. 
+Uzytkownik na podgląd na godzinowy plan tygodnia, liste "najważniejsze zadania" na konkretny dzień, 
+liste "to do" bez wpisywania zadania na konkretny dzień (z lub bez konkretnego deadline'u)
+oraz "zbliżające sie terminy" (np. kolokwium w przyszłym tygodniu). 
+Przejść między tygodniami można dokonywać poprzez strzałki na brzegach planera lub z miesiecznego podglądu kalendarza, 
+wyświetlanego w rogu ekranu.
+Uzytkownik może dodać/usunąć termin/zadanie i jest ono wpisywane do bazy danych.
 Technologia: WPF
